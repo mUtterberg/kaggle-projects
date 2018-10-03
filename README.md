@@ -4,6 +4,8 @@
 
 [My submission](https://www.kaggle.com/mutterberg/utterberg-housing)
 
+[Image: Intellisense for Jupyter Notebooks](/NotebookSense.png)
+
 Sources:
 
 * [Help with preprocessing](https://github.com/nimeshikaranasinghe/House-Prices--Advanced-Regression-Techniques-Walkthrough/blob/master/home.py)
