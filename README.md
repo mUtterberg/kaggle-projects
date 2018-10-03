@@ -4,7 +4,7 @@
 
 [My submission](https://www.kaggle.com/mutterberg/utterberg-housing)
 
-[Image: Intellisense for Jupyter Notebooks](/NotebookSense.png)
+![Image: Intellisense for Jupyter Notebooks](/NotebookSense.png)
 
 Sources:
 
