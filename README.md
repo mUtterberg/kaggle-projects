@@ -7,3 +7,5 @@
 Sources:
 
 * [Help with preprocessing](https://github.com/nimeshikaranasinghe/House-Prices--Advanced-Regression-Techniques-Walkthrough/blob/master/home.py)
+
+* [Help with plt subplots](http://jonathansoma.com/lede/data-studio/classes/small-multiples/long-explanation-of-using-plt-subplots-to-create-small-multiples/)
