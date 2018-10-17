@@ -106,4 +106,4 @@ myvenv/
 .mypy_cache/
 
 .DS_Store
-_mask.*
+*/_mask.cpython-36m-darwin.so
